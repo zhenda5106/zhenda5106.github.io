@@ -66,7 +66,7 @@ nav a[aria-current='page'] { font-weight: 600; }
 .content-section h2 { font-size: 1.4rem; }
 .section-body p:last-child { margin-bottom: 0; }
 .course-list { list-style: none; padding: 0; margin: 0; }
-.course-list li { display: grid; grid-template-columns: 5rem minmax(0, 1fr); gap: 1rem; padding: .45rem 0; }
+.course-list li { display: grid; grid-template-columns: 6rem minmax(0, 1fr); gap: 1rem; padding: .45rem 0; }
 .course-list li:first-child { padding-top: 0; }
 .course-code { color: var(--muted); font-variant-numeric: tabular-nums; }
 .project { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 3rem; border-top: 1px solid var(--line); padding: 32px 0; }
